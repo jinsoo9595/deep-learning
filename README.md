@@ -4,6 +4,10 @@ I'm interested in Digital Image Processing, Computer Vision and studying it now.
 Using Tensorflow based on Python.   
 
    
+## Requirements
+- Python 3.7.6
+- Tensorflow 1.14.0
+   
    
 ## License
 This project is made available under the [MIT License](https://github.com/asyncbridge/honeybeee/blob/master/LICENSE).
