@@ -14,4 +14,4 @@ This project is made available under the [MIT License](https://github.com/asyncb
    
    
 ## Study Model
-CNN for Image Classification
+[**CNN for Image Classification**](https://github.com/jinsoo9595/deep-learning/tree/master/CNN_image_classification)
